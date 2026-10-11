@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-11T12:57:14Z",
+  "updated": "2026-10-11T22:02:08Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "date": "2026-10-11T14:23:46Z"
+    },
     {
       "source": "the hacker news",
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -42,12 +48,6 @@
       "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
       "date": "2026-10-09T20:31:37Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "date": "2026-10-09T19:14:28Z"
     }
   ]
 }
