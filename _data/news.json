@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-13T22:49:24Z",
+  "updated": "2026-10-14T04:59:10Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "date": "2026-10-14T01:59:25Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
@@ -42,12 +48,6 @@
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
       "date": "2026-10-13T18:20:57Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "date": "2026-10-13T18:19:44Z"
     }
   ]
 }
