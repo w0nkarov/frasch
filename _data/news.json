@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-15T04:47:07Z",
+  "updated": "2026-10-15T11:36:03Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "date": "2026-10-15T10:42:16Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "date": "2026-10-15T09:10:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "date": "2026-10-15T08:45:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "date": "2026-10-15T08:06:47Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "date": "2026-10-15T07:07:05Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "date": "2026-10-15T06:43:08Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "date": "2026-10-15T06:17:58Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
       "date": "2026-10-14T22:56:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "date": "2026-10-14T19:41:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "date": "2026-10-14T18:38:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "date": "2026-10-14T17:46:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "date": "2026-10-14T17:38:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "date": "2026-10-14T17:29:14Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "date": "2026-10-14T17:09:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "date": "2026-10-14T16:34:31Z"
     }
   ]
 }
