@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T10:50:07Z",
+  "updated": "2026-10-17T15:39:28Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "date": "2026-10-17T15:18:51Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "date": "2026-10-17T14:32:48Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "date": "2026-10-17T11:11:56Z"
+    },
     {
       "source": "the hacker news",
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
@@ -30,24 +48,6 @@
       "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
       "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
       "date": "2026-10-16T16:43:39Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "date": "2026-10-16T16:16:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "date": "2026-10-16T14:03:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "date": "2026-10-16T13:50:59Z"
     }
   ]
 }
