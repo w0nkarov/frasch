@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-17T04:34:15Z",
+  "updated": "2026-10-17T10:50:07Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "date": "2026-10-17T06:16:46Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
@@ -42,12 +48,6 @@
       "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
       "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
       "date": "2026-10-16T13:50:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "date": "2026-10-16T12:01:29Z"
     }
   ]
 }
