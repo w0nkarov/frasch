@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-18T11:14:32Z",
+  "updated": "2026-10-18T15:55:07Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "date": "2026-10-18T14:23:16Z"
+    },
     {
       "source": "the hacker news",
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -42,12 +48,6 @@
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "date": "2026-10-16T17:48:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "date": "2026-10-16T17:20:03Z"
     }
   ]
 }
