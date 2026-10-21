@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-21T11:56:48Z",
+  "updated": "2026-10-21T17:16:36Z",
   "items": [
     {
       "source": "the hacker news",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "date": "2026-10-21T10:36:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "date": "2026-10-21T10:32:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "date": "2026-10-21T10:30:27Z"
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "date": "2026-10-21T16:33:47Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "date": "2026-10-21T10:14:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "date": "2026-10-21T09:05:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "date": "2026-10-21T09:01:12Z"
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "date": "2026-10-21T16:26:53Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "date": "2026-10-21T08:36:24Z"
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "date": "2026-10-21T14:07:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "date": "2026-10-21T14:00:10Z"
     },
     {
       "source": "the hacker news",
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "date": "2026-10-21T08:04:17Z"
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "date": "2026-10-21T14:00:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "date": "2026-10-21T13:15:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "date": "2026-10-21T12:20:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "date": "2026-10-21T12:05:00Z"
     }
   ]
 }
