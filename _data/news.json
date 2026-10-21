@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-21T04:55:54Z",
+  "updated": "2026-10-21T11:56:48Z",
   "items": [
     {
-      "source": "bleepingcomputer",
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "date": "2026-10-21T01:01:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "date": "2026-10-21T00:46:42Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "date": "2026-10-20T20:56:43Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Zeabur shutting down after second security breach in two months",
-      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "date": "2026-10-20T19:33:02Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "date": "2026-10-20T18:11:03Z"
+      "source": "the hacker news",
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "date": "2026-10-21T10:36:53Z"
     },
     {
       "source": "the hacker news",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "date": "2026-10-20T17:09:53Z"
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "date": "2026-10-21T10:32:40Z"
     },
     {
       "source": "the hacker news",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "date": "2026-10-20T15:38:52Z"
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "date": "2026-10-21T10:30:27Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "date": "2026-10-21T10:14:53Z"
     },
     {
       "source": "the hacker news",
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "date": "2026-10-20T15:32:27Z"
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "date": "2026-10-21T09:05:17Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "date": "2026-10-21T09:01:12Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "date": "2026-10-21T08:36:24Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "date": "2026-10-21T08:04:17Z"
     }
   ]
 }
