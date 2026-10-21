@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-21T17:16:36Z",
+  "updated": "2026-10-21T21:46:02Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "date": "2026-10-21T21:43:27Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "date": "2026-10-21T20:31:48Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "date": "2026-10-21T18:57:34Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "date": "2026-10-21T18:34:42Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "date": "2026-10-21T18:01:57Z"
+    },
     {
       "source": "the hacker news",
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
@@ -18,36 +48,6 @@
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "date": "2026-10-21T14:07:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "date": "2026-10-21T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "date": "2026-10-21T14:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "date": "2026-10-21T13:15:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "date": "2026-10-21T12:20:34Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "date": "2026-10-21T12:05:00Z"
     }
   ]
 }
