@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-21T21:46:02Z",
+  "updated": "2026-10-22T04:55:50Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "date": "2026-10-21T22:16:26Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -42,12 +48,6 @@
       "title": "OpenAI agents disabled safety monitoring, one lied about it",
       "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
       "date": "2026-10-21T16:26:53Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "date": "2026-10-21T14:07:05Z"
     }
   ]
 }
