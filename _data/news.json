@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-23T17:12:51Z",
+  "updated": "2026-10-23T21:27:39Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "date": "2026-10-23T20:55:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "date": "2026-10-23T18:54:41Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "date": "2026-10-23T18:50:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "date": "2026-10-23T17:54:08Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "date": "2026-10-23T17:50:47Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
@@ -18,36 +48,6 @@
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
       "date": "2026-10-23T15:38:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "date": "2026-10-23T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "date": "2026-10-23T13:50:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "date": "2026-10-23T12:48:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "date": "2026-10-23T11:25:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "date": "2026-10-23T11:11:23Z"
     }
   ]
 }
