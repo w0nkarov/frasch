@@ -1,9 +1,45 @@
 {
-  "updated": "2026-10-23T11:44:38Z",
+  "updated": "2026-10-23T17:12:51Z",
   "items": [
     {
+      "source": "bleepingcomputer",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "date": "2026-10-23T17:05:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "date": "2026-10-23T16:40:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "date": "2026-10-23T15:38:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "date": "2026-10-23T14:00:10Z"
+    },
+    {
       "source": "the hacker news",
-      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "date": "2026-10-23T13:50:56Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "date": "2026-10-23T12:48:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "date": "2026-10-23T11:25:43Z"
     },
@@ -12,42 +48,6 @@
       "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "date": "2026-10-23T11:11:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "date": "2026-10-23T09:36:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "date": "2026-10-23T08:40:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "date": "2026-10-23T08:35:45Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "date": "2026-10-23T07:40:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "date": "2026-10-22T21:25:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "date": "2026-10-22T20:22:45Z"
     }
   ]
 }
