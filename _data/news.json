@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-25T16:28:22Z",
+  "updated": "2026-10-25T20:55:01Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "date": "2026-10-25T17:44:09Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "date": "2026-10-25T17:19:46Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -36,18 +48,6 @@
       "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
       "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
       "date": "2026-10-24T10:36:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "date": "2026-10-24T09:04:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "date": "2026-10-24T06:25:57Z"
     }
   ]
 }
