@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-25T04:48:56Z",
+  "updated": "2026-10-25T11:38:37Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "date": "2026-10-25T06:54:29Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -42,12 +48,6 @@
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "date": "2026-10-23T20:55:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "date": "2026-10-23T18:54:41Z"
     }
   ]
 }
