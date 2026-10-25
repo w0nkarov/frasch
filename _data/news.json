@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-25T11:38:37Z",
+  "updated": "2026-10-25T16:28:22Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "date": "2026-10-25T15:49:38Z"
+    },
     {
       "source": "the hacker news",
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
@@ -42,12 +48,6 @@
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
       "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "date": "2026-10-24T06:25:57Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "date": "2026-10-23T20:55:05Z"
     }
   ]
 }
