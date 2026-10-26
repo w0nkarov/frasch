@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-26T04:53:57Z",
+  "updated": "2026-10-26T13:11:13Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "date": "2026-10-26T11:23:56Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "date": "2026-10-26T10:26:52Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "date": "2026-10-26T09:54:02Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "date": "2026-10-26T09:19:57Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "date": "2026-10-26T08:35:51Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "date": "2026-10-26T07:49:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "date": "2026-10-26T06:03:48Z"
+    },
     {
       "source": "the hacker news",
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
       "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "date": "2026-10-25T17:44:09Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "date": "2026-10-25T17:19:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "date": "2026-10-25T15:49:38Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "date": "2026-10-25T06:54:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "date": "2026-10-24T14:17:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "date": "2026-10-24T11:09:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "date": "2026-10-24T11:03:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "date": "2026-10-24T10:36:33Z"
     }
   ]
 }
