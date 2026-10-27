@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-27T12:19:10Z",
+  "updated": "2026-10-27T18:03:24Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "date": "2026-10-27T16:15:39Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "date": "2026-10-27T14:09:46Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "date": "2026-10-27T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "date": "2026-10-27T13:59:48Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "date": "2026-10-27T13:59:09Z"
+    },
     {
       "source": "the hacker news",
       "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
@@ -18,36 +48,6 @@
       "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
       "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
       "date": "2026-10-27T11:32:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "date": "2026-10-27T11:32:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "date": "2026-10-27T10:36:12Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "date": "2026-10-27T09:33:06Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "date": "2026-10-27T09:25:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "date": "2026-10-27T08:22:43Z"
     }
   ]
 }
