@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-27T22:19:17Z",
+  "updated": "2026-10-28T05:49:07Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "date": "2026-10-27T23:35:51Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "date": "2026-10-27T22:43:27Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "UNM Health ransomware attack disrupts patient care, surgeries",
@@ -36,18 +48,6 @@
       "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
       "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
       "date": "2026-10-27T14:09:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "date": "2026-10-27T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-      "date": "2026-10-27T13:59:48Z"
     }
   ]
 }
