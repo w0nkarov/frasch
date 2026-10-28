@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-28T13:02:35Z",
+  "updated": "2026-10-28T22:39:00Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "date": "2026-10-28T12:19:57Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "date": "2026-10-28T11:15:51Z"
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "date": "2026-10-28T20:47:22Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "date": "2026-10-28T10:46:23Z"
+      "title": "Discord to let search engines index public server messages",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "date": "2026-10-28T18:44:16Z"
     },
     {
       "source": "the hacker news",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "date": "2026-10-28T10:30:00Z"
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "date": "2026-10-28T18:08:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "date": "2026-10-28T17:08:09Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "date": "2026-10-28T09:43:15Z"
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "date": "2026-10-28T16:45:47Z"
     },
     {
       "source": "the hacker news",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "date": "2026-10-28T08:15:07Z"
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "date": "2026-10-28T16:23:34Z"
     },
     {
       "source": "the hacker news",
-      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-      "date": "2026-10-28T07:37:50Z"
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "date": "2026-10-28T16:02:45Z"
     },
     {
-      "source": "the hacker news",
-      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-      "date": "2026-10-28T07:13:21Z"
+      "source": "bleepingcomputer",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "date": "2026-10-28T16:00:00Z"
     }
   ]
 }
