@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-29T05:53:50Z",
+  "updated": "2026-10-29T13:09:47Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "date": "2026-10-28T20:47:22Z"
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "date": "2026-10-29T12:00:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "date": "2026-10-29T11:39:41Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "date": "2026-10-29T11:39:18Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "date": "2026-10-29T11:33:41Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "date": "2026-10-29T11:33:15Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Discord to let search engines index public server messages",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "date": "2026-10-28T18:44:16Z"
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "date": "2026-10-29T11:10:13Z"
     },
     {
       "source": "the hacker news",
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "date": "2026-10-28T18:08:33Z"
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "date": "2026-10-29T10:44:46Z"
     },
     {
       "source": "the hacker news",
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "date": "2026-10-28T17:08:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "date": "2026-10-28T16:45:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "date": "2026-10-28T16:23:34Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "date": "2026-10-28T16:02:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "date": "2026-10-28T16:00:00Z"
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "date": "2026-10-29T10:26:33Z"
     }
   ]
 }
