@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-30T05:55:04Z",
+  "updated": "2026-10-30T13:02:22Z",
   "items": [
     {
-      "source": "the hacker news",
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "date": "2026-10-30T04:14:59Z"
-    },
-    {
       "source": "bleepingcomputer",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "date": "2026-10-29T23:35:52Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "date": "2026-10-29T22:45:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "date": "2026-10-29T22:09:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "date": "2026-10-29T22:08:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "date": "2026-10-29T21:47:25Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "date": "2026-10-29T19:23:41Z"
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "date": "2026-10-30T13:00:32Z"
     },
     {
       "source": "the hacker news",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "date": "2026-10-29T19:11:58Z"
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "date": "2026-10-30T12:21:56Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "date": "2026-10-30T11:58:53Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "date": "2026-10-30T11:20:26Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "date": "2026-10-30T10:40:45Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "date": "2026-10-30T10:16:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "date": "2026-10-30T09:18:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "date": "2026-10-30T08:55:47Z"
     }
   ]
 }
