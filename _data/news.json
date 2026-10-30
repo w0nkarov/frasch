@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-29T22:48:08Z",
+  "updated": "2026-10-30T05:55:04Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "date": "2026-10-30T04:14:59Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "date": "2026-10-29T23:35:52Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Binance probes potential $5.8 billion crypto-theft hack",
@@ -36,18 +48,6 @@
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
       "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
       "date": "2026-10-29T19:11:58Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "date": "2026-10-29T18:38:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "date": "2026-10-29T16:10:31Z"
     }
   ]
 }
