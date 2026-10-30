@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-30T13:02:22Z",
+  "updated": "2026-10-30T22:25:14Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "date": "2026-10-30T21:09:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "date": "2026-10-30T16:58:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "date": "2026-10-30T15:58:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "date": "2026-10-30T15:17:28Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "date": "2026-10-30T14:36:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "date": "2026-10-30T14:08:14Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "date": "2026-10-30T14:00:10Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "CISA says max severity GitLab flaw now exploited in the wild",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "date": "2026-10-30T13:00:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "date": "2026-10-30T12:21:56Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "date": "2026-10-30T11:58:53Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft finally fixes VPN issues caused by September updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-      "date": "2026-10-30T11:20:26Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "date": "2026-10-30T10:40:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "date": "2026-10-30T10:16:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "date": "2026-10-30T09:18:13Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "date": "2026-10-30T08:55:47Z"
     }
   ]
 }
