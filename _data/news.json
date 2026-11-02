@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-01T22:06:05Z",
+  "updated": "2026-11-02T06:16:20Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "date": "2026-11-02T05:51:07Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
@@ -42,12 +48,6 @@
       "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
       "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
       "date": "2026-11-01T07:02:58Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "date": "2026-10-31T18:01:12Z"
     }
   ]
 }
