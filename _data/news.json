@@ -1,9 +1,39 @@
 {
-  "updated": "2026-11-02T16:05:00Z",
+  "updated": "2026-11-03T01:01:36Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "date": "2026-11-02T21:40:14Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "date": "2026-11-02T19:00:45Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "date": "2026-11-02T18:16:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "date": "2026-11-02T16:57:56Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "date": "2026-11-02T15:50:26Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
       "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
       "date": "2026-11-02T15:03:07Z"
     },
@@ -18,36 +48,6 @@
       "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
       "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
       "date": "2026-11-02T14:46:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "date": "2026-11-02T14:28:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "date": "2026-11-02T13:57:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "date": "2026-11-02T12:47:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "date": "2026-11-02T11:50:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "date": "2026-11-02T11:30:00Z"
     }
   ]
 }
