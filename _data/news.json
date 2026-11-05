@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-04T19:49:07Z",
+  "updated": "2026-11-05T06:54:44Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "date": "2026-11-05T05:17:04Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "date": "2026-11-05T04:31:16Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "date": "2026-11-04T21:31:18Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "date": "2026-11-04T20:58:19Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
@@ -24,30 +48,6 @@
       "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
       "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
       "date": "2026-11-04T17:00:38Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "date": "2026-11-04T16:58:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "date": "2026-11-04T16:06:43Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "date": "2026-11-04T16:00:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "date": "2026-11-04T15:00:10Z"
     }
   ]
 }
