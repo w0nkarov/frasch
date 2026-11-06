@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-05T20:00:13Z",
+  "updated": "2026-11-06T06:54:27Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "date": "2026-11-06T00:56:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "date": "2026-11-05T21:30:30Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "date": "2026-11-05T20:15:08Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
@@ -14,40 +32,22 @@
       "date": "2026-11-05T17:45:29Z"
     },
     {
+      "source": "the hacker news",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "date": "2026-11-05T16:42:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "date": "2026-11-05T16:42:32Z"
+    },
+    {
       "source": "bleepingcomputer",
       "title": "Hackers backdoor Linux servers using trojanized CWP web server",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
       "date": "2026-11-05T16:24:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "date": "2026-11-05T16:12:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "date": "2026-11-05T15:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "date": "2026-11-05T14:41:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "date": "2026-11-05T12:25:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "date": "2026-11-05T12:08:54Z"
     }
   ]
 }
