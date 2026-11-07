@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-06T19:27:49Z",
+  "updated": "2026-11-07T06:05:15Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "date": "2026-11-07T00:00:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "date": "2026-11-06T22:27:25Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "date": "2026-11-06T20:24:19Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Fake security tools on GitHub push backdoors and infostealers",
@@ -30,24 +48,6 @@
       "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
       "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
       "date": "2026-11-06T15:21:49Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "date": "2026-11-06T15:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "date": "2026-11-06T14:58:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "date": "2026-11-06T14:17:07Z"
     }
   ]
 }
