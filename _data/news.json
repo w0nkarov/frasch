@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-07T06:05:15Z",
+  "updated": "2026-11-07T13:10:46Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "date": "2026-11-07T06:44:17Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -42,12 +48,6 @@
       "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
       "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
       "date": "2026-11-06T15:25:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "date": "2026-11-06T15:21:49Z"
     }
   ]
 }
