@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-08T13:31:21Z",
+  "updated": "2026-11-08T22:11:14Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "date": "2026-11-08T15:43:08Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers pull off $133 million French bank heist via service provider",
@@ -42,12 +48,6 @@
       "title": "Fake security tools on GitHub push backdoors and infostealers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
       "date": "2026-11-06T18:46:52Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "date": "2026-11-06T17:04:23Z"
     }
   ]
 }
