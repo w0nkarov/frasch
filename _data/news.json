@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-09T22:26:09Z",
+  "updated": "2026-11-10T07:25:03Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "date": "2026-11-10T06:52:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "date": "2026-11-10T06:44:36Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "date": "2026-11-10T06:31:42Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "date": "2026-11-09T23:52:12Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
@@ -24,30 +48,6 @@
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "date": "2026-11-09T18:32:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "date": "2026-11-09T17:51:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-      "date": "2026-11-09T17:50:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "date": "2026-11-09T17:36:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Binance denies data breach after alleged ShinyHunters claims",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-      "date": "2026-11-09T16:12:39Z"
     }
   ]
 }
