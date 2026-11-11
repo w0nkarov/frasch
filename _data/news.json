@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-10T19:47:33Z",
+  "updated": "2026-11-11T06:34:18Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "date": "2026-11-11T06:04:02Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "date": "2026-11-10T22:20:19Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "date": "2026-11-10T20:54:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "date": "2026-11-10T20:04:36Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
@@ -24,30 +48,6 @@
       "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
       "date": "2026-11-10T19:07:36Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "date": "2026-11-10T18:33:26Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "date": "2026-11-10T18:12:21Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "date": "2026-11-10T17:43:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "date": "2026-11-10T16:17:16Z"
     }
   ]
 }
