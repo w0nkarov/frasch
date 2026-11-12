@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-11T19:39:37Z",
+  "updated": "2026-11-12T07:17:33Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "date": "2026-11-12T05:12:26Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "date": "2026-11-12T04:39:48Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "date": "2026-11-11T23:01:31Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "date": "2026-11-11T22:56:21Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "date": "2026-11-11T21:27:40Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "date": "2026-11-11T20:54:20Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
@@ -12,42 +48,6 @@
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
       "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
       "date": "2026-11-11T16:12:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "date": "2026-11-11T15:34:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "date": "2026-11-11T15:12:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "date": "2026-11-11T15:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "date": "2026-11-11T14:01:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "date": "2026-11-11T12:32:27Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "date": "2026-11-11T12:19:40Z"
     }
   ]
 }
