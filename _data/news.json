@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-13T06:51:37Z",
+  "updated": "2026-11-13T19:47:00Z",
   "items": [
     {
-      "source": "the hacker news",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "date": "2026-11-13T05:43:28Z"
+      "source": "bleepingcomputer",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "date": "2026-11-13T19:38:36Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "date": "2026-11-12T22:53:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "date": "2026-11-12T22:25:30Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "date": "2026-11-12T20:15:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "date": "2026-11-12T19:51:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "date": "2026-11-12T19:12:55Z"
+      "title": "German military drone operations disrupted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "date": "2026-11-13T17:31:56Z"
     },
     {
       "source": "the hacker news",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "date": "2026-11-12T18:07:15Z"
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "date": "2026-11-13T16:53:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "date": "2026-11-13T16:21:43Z"
     },
     {
       "source": "the hacker news",
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "date": "2026-11-12T18:02:51Z"
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "date": "2026-11-13T15:27:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "date": "2026-11-13T15:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "date": "2026-11-13T14:28:58Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "date": "2026-11-13T13:54:20Z"
     }
   ]
 }
