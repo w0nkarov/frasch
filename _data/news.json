@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-17T07:59:51Z",
+  "updated": "2026-11-17T20:59:24Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "date": "2026-11-17T07:25:44Z"
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "date": "2026-11-17T20:51:21Z"
     },
     {
       "source": "the hacker news",
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "date": "2026-11-17T07:12:13Z"
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "date": "2026-11-17T19:34:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "date": "2026-11-17T19:24:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "date": "2026-11-17T18:21:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "date": "2026-11-17T18:04:15Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "date": "2026-11-17T16:00:00Z"
     },
     {
       "source": "the hacker news",
-      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "date": "2026-11-17T06:29:27Z"
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "date": "2026-11-17T15:17:36Z"
     },
     {
       "source": "the hacker news",
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "date": "2026-11-17T05:00:34Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "date": "2026-11-17T02:12:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "date": "2026-11-16T22:54:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "date": "2026-11-16T21:31:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "date": "2026-11-16T20:59:44Z"
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "date": "2026-11-17T15:17:28Z"
     }
   ]
 }
