@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-16T22:11:41Z",
+  "updated": "2026-11-17T07:59:51Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "date": "2026-11-17T07:25:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "date": "2026-11-17T07:12:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "date": "2026-11-17T06:29:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "date": "2026-11-17T05:00:34Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "date": "2026-11-17T02:12:17Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "date": "2026-11-16T22:54:00Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
@@ -12,42 +48,6 @@
       "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
       "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
       "date": "2026-11-16T20:59:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "date": "2026-11-16T19:57:13Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "date": "2026-11-16T16:43:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "date": "2026-11-16T15:44:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "date": "2026-11-16T15:01:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "date": "2026-11-16T14:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "date": "2026-11-16T14:00:00Z"
     }
   ]
 }
