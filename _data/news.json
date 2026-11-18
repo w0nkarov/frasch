@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-17T20:59:24Z",
+  "updated": "2026-11-18T07:36:22Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "date": "2026-11-18T06:45:26Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "date": "2026-11-18T05:58:04Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "date": "2026-11-18T04:27:41Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "date": "2026-11-17T23:04:21Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "date": "2026-11-17T21:27:17Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
@@ -18,36 +48,6 @@
       "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
       "date": "2026-11-17T19:24:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "date": "2026-11-17T18:21:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "date": "2026-11-17T18:04:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "date": "2026-11-17T16:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "date": "2026-11-17T15:17:36Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "date": "2026-11-17T15:17:28Z"
     }
   ]
 }
