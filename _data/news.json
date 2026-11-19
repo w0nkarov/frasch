@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-18T20:37:29Z",
+  "updated": "2026-11-19T07:31:18Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "date": "2026-11-19T04:33:46Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "date": "2026-11-18T23:08:33Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "date": "2026-11-18T20:49:32Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
@@ -30,24 +48,6 @@
       "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
       "date": "2026-11-18T16:58:42Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "date": "2026-11-18T15:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "date": "2026-11-18T14:11:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "date": "2026-11-18T12:28:30Z"
     }
   ]
 }
