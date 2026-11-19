@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-19T07:31:18Z",
+  "updated": "2026-11-19T20:42:41Z",
   "items": [
     {
       "source": "the hacker news",
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "date": "2026-11-19T04:33:46Z"
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "date": "2026-11-19T18:47:58Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "date": "2026-11-18T23:08:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "date": "2026-11-18T20:49:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "date": "2026-11-18T19:39:33Z"
+      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+      "date": "2026-11-19T18:20:01Z"
     },
     {
       "source": "the hacker news",
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "date": "2026-11-18T18:31:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "date": "2026-11-18T18:15:39Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "date": "2026-11-18T17:10:45Z"
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "date": "2026-11-19T16:59:56Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "date": "2026-11-18T16:58:42Z"
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "date": "2026-11-19T16:28:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "date": "2026-11-19T15:18:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "date": "2026-11-19T15:11:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "date": "2026-11-19T15:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "date": "2026-11-19T14:57:24Z"
     }
   ]
 }
