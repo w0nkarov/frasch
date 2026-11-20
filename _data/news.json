@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-19T20:42:41Z",
+  "updated": "2026-11-20T07:23:23Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "date": "2026-11-20T06:33:31Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "date": "2026-11-20T05:30:01Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "date": "2026-11-20T00:26:25Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "date": "2026-11-19T22:25:42Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "date": "2026-11-19T21:15:59Z"
+    },
     {
       "source": "the hacker news",
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -18,36 +48,6 @@
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
       "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
       "date": "2026-11-19T16:59:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "date": "2026-11-19T16:28:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "date": "2026-11-19T15:18:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "date": "2026-11-19T15:11:06Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "date": "2026-11-19T15:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "date": "2026-11-19T14:57:24Z"
     }
   ]
 }
