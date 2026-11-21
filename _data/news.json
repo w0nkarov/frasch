@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-21T07:16:39Z",
+  "updated": "2026-11-21T19:21:54Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "date": "2026-11-20T18:51:43Z"
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "date": "2026-11-21T18:01:58Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "date": "2026-11-21T15:17:27Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "date": "2026-11-21T14:26:04Z"
     },
     {
       "source": "the hacker news",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "date": "2026-11-20T17:57:20Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "date": "2026-11-20T17:30:00Z"
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "date": "2026-11-21T11:53:07Z"
     },
     {
       "source": "the hacker news",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "date": "2026-11-20T16:58:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "date": "2026-11-20T15:58:06Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "date": "2026-11-20T15:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "N-able says recent security breach led to major service outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "date": "2026-11-20T13:18:36Z"
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "date": "2026-11-21T11:05:53Z"
     },
     {
       "source": "the hacker news",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "date": "2026-11-20T12:20:00Z"
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "date": "2026-11-21T11:03:17Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "date": "2026-11-21T08:49:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "date": "2026-11-21T08:49:13Z"
     }
   ]
 }
