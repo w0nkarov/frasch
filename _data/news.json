@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-23T23:58:03Z",
+  "updated": "2026-11-24T09:59:13Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "date": "2026-11-24T06:02:57Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "date": "2026-11-24T06:02:45Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
@@ -36,18 +48,6 @@
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
       "date": "2026-11-23T16:50:01Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "date": "2026-11-23T15:10:48Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "date": "2026-11-23T15:00:10Z"
     }
   ]
 }
