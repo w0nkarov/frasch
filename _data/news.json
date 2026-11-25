@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-25T08:43:15Z",
+  "updated": "2026-11-25T21:45:21Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "date": "2026-11-25T07:45:03Z"
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "date": "2026-11-25T21:33:33Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "date": "2026-11-25T19:39:31Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "date": "2026-11-25T16:13:40Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "date": "2026-11-25T15:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "date": "2026-11-25T15:00:00Z"
     },
     {
       "source": "the hacker news",
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "date": "2026-11-25T06:50:19Z"
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "date": "2026-11-25T12:48:54Z"
     },
     {
       "source": "the hacker news",
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "date": "2026-11-25T06:37:06Z"
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "date": "2026-11-25T12:30:08Z"
     },
     {
       "source": "the hacker news",
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "date": "2026-11-25T06:21:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "date": "2026-11-24T21:37:30Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "date": "2026-11-24T20:21:20Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "date": "2026-11-24T18:59:52Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "date": "2026-11-24T17:49:05Z"
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "date": "2026-11-25T11:51:48Z"
     }
   ]
 }
