@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-24T22:30:43Z",
+  "updated": "2026-11-25T08:43:15Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "date": "2026-11-25T07:45:03Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "date": "2026-11-25T06:50:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "date": "2026-11-25T06:37:06Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+      "date": "2026-11-25T06:21:12Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Rackspace shuts down Spot cloud platform after security breach",
@@ -24,30 +48,6 @@
       "title": "Radware discloses breach exposing customer cloud access keys",
       "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
       "date": "2026-11-24T17:49:05Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "date": "2026-11-24T16:54:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "date": "2026-11-24T16:30:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "date": "2026-11-24T16:22:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "date": "2026-11-24T16:15:23Z"
     }
   ]
 }
