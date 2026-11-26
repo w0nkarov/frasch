@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-25T21:45:21Z",
+  "updated": "2026-11-26T08:27:55Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "date": "2026-11-26T07:02:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "date": "2026-11-26T06:44:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "date": "2026-11-26T04:20:22Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "date": "2026-11-26T03:48:52Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "date": "2026-11-25T22:05:09Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "1Password customer data stolen after employee GitHub account breach",
@@ -18,36 +48,6 @@
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
       "date": "2026-11-25T16:13:40Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-      "date": "2026-11-25T15:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "date": "2026-11-25T15:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "date": "2026-11-25T12:48:54Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "date": "2026-11-25T12:30:08Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "date": "2026-11-25T11:51:48Z"
     }
   ]
 }
