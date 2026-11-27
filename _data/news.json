@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-26T21:38:48Z",
+  "updated": "2026-11-27T08:42:33Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "date": "2026-11-27T08:06:58Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "date": "2026-11-27T06:04:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "date": "2026-11-27T05:48:20Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -30,24 +48,6 @@
       "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
       "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
       "date": "2026-11-26T15:23:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "date": "2026-11-26T15:13:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "date": "2026-11-26T11:50:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "date": "2026-11-26T10:57:55Z"
     }
   ]
 }
