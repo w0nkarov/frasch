@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-27T08:42:33Z",
+  "updated": "2026-11-27T21:23:07Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-      "date": "2026-11-27T08:06:58Z"
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "date": "2026-11-27T19:26:04Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "date": "2026-11-27T18:57:42Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "date": "2026-11-27T17:06:13Z"
     },
     {
       "source": "the hacker news",
-      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
-      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-      "date": "2026-11-27T06:04:20Z"
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "date": "2026-11-27T16:36:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "date": "2026-11-27T15:09:40Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "date": "2026-11-27T15:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "date": "2026-11-27T14:22:06Z"
     },
     {
       "source": "the hacker news",
-      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
-      "date": "2026-11-27T05:48:20Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "date": "2026-11-26T21:06:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-      "date": "2026-11-26T19:39:57Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-      "date": "2026-11-26T17:58:42Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "date": "2026-11-26T17:15:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "date": "2026-11-26T15:23:28Z"
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "date": "2026-11-27T11:49:34Z"
     }
   ]
 }
